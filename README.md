@@ -14,6 +14,9 @@ Python · Git & GitHub · Google Apps Script · Google Workspace · Claude Code 
 ## 📦 Zuletzt aktualisierte Repositories
 
 <!-- REPOS:START -->
+- **[Maex-Voice-Agent](https://github.com/Maeximilion/Maex-Voice-Agent)** – KI-Telefonagent für Yoki Yoki – Annahme von Lieferung, Abholung und Reservierung per Telefon <sub>Python · aktualisiert 12.10.2026</sub>
+
+<sub>Automatisch aktualisiert am 12.10.2026</sub>
 <!-- REPOS:END -->
 
 ## 🤝 Kontakt
