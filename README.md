@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hallo, ich bin Maxi 👋
 
-<!--
-**Maeximilion/Maeximilion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Angehender **Fachinformatiker für Anwendungsentwicklung** aus Baden-Baden – davor 7 Jahre Gründer und Geschäftsführer eines Restaurants.
+Mein Schwerpunkt: **Python, Automatisierung und KI** – Technik, die im Alltag eines Betriebs wirklich hilft.
 
-Here are some ideas to get you started:
+## 🔨 Woran ich arbeite
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[Maex-Voice-Agent](https://github.com/Maeximilion/Maex-Voice-Agent)** – KI-Telefonagent, der Bestellungen, Abholungen und Reservierungen für Restaurants annimmt
+
+## 🧰 Tech-Stack
+
+Python · Git & GitHub · Google Apps Script · Google Workspace · Claude Code · Prompt Engineering
+
+## 📦 Zuletzt aktualisierte Repositories
+
+<!-- REPOS:START -->
+<!-- REPOS:END -->
+
+## 🤝 Kontakt
+
+[LinkedIn](https://www.linkedin.com/in/maximilian-dumler-4528a4430/)
