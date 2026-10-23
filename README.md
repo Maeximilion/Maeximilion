@@ -16,7 +16,7 @@ Python · Git & GitHub · Google Apps Script · Google Workspace · Claude Code 
 <!-- REPOS:START -->
 - **[Maex-Voice-Agent](https://github.com/Maeximilion/Maex-Voice-Agent)** – AI phone agent for a pilot restaurant – takes delivery, pickup and reservation calls <sub>Python · aktualisiert 22.10.2026</sub>
 
-<sub>Automatisch aktualisiert am 22.10.2026</sub>
+<sub>Automatisch aktualisiert am 23.10.2026</sub>
 <!-- REPOS:END -->
 
 ## 🤝 Kontakt
