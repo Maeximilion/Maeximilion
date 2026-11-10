@@ -1,25 +1,32 @@
-# Hallo, ich bin Maxi 👋
+<p align="center">
+  <img src="assets/profile-banner.svg" width="100%" alt="The name MAXI as a neon sign. Maximilian Dumler, apprentice software developer, before that seven years a restaurant founder. Python, automation and AI that help in a real working day.">
+</p>
 
-Angehender **Fachinformatiker für Anwendungsentwicklung** aus Baden-Baden – davor 7 Jahre Gründer und Geschäftsführer eines Restaurants.
-Mein Schwerpunkt: **Python, Automatisierung und KI** – Technik, die im Alltag eines Betriebs wirklich hilft.
+# Hi, I'm Maxi
 
-## 🔨 Woran ich arbeite
+I am training as a software developer (Fachinformatiker für Anwendungsentwicklung) in Baden-Baden. Before that I founded and ran a restaurant for seven years. I work with Python, automation and AI, and I build software that helps in the real working day of a business.
 
-- **[Maex-Voice-Agent](https://github.com/Maeximilion/Maex-Voice-Agent)** – KI-Telefonagent, der Bestellungen, Abholungen und Reservierungen für Restaurants annimmt
+## What I'm working on
 
-## 🧰 Tech-Stack
+<p align="center">
+  <a href="https://github.com/Maeximilion/Maex-Voice-Agent"><img src="assets/project-card.svg" width="100%" alt="Maex Voice Agent: an AI agent answers a restaurant's phone and takes reservations, pickups and deliveries. The AI understands, the code decides."></a>
+</p>
 
-Python · Git & GitHub · Google Apps Script · Google Workspace · Claude Code · Prompt Engineering
+**[Maex Voice Agent](https://github.com/Maeximilion/Maex-Voice-Agent)** answers a restaurant's phone and takes reservations, pickup and delivery orders. The language model only understands the caller: prices, opening hours and availability come from the database, nothing is booked before the caller's yes, and every doubt ends with the team. It runs on the workbench with test data and is not live yet.
 
-## 📦 Zuletzt aktualisierte Repositories
+## Stack
+
+Python, Git and GitHub, Google Apps Script, Google Workspace, Claude Code, prompt engineering.
+
+## Recently updated repositories
 
 <!-- REPOS:START -->
-- **[Maex-Voice-Agent](https://github.com/Maeximilion/Maex-Voice-Agent)** – AI phone agent for a pilot restaurant – takes delivery, pickup and reservation calls <sub>Python · aktualisiert 09.11.2026</sub>
-- **[MaexSocial](https://github.com/Maeximilion/MaexSocial)** – AI-powered local visibility, social media operations and creative production. Discovery and gated development. <sub>Python · aktualisiert 06.11.2026</sub>
+- **[Maex-Voice-Agent](https://github.com/Maeximilion/Maex-Voice-Agent)** – AI phone agent for a pilot restaurant – takes delivery, pickup and reservation calls <sub>Python · updated 09.11.2026</sub>
+- **[MaexSocial](https://github.com/Maeximilion/MaexSocial)** – AI-powered local visibility, social media operations and creative production. Discovery and gated development. <sub>Python · updated 06.11.2026</sub>
 
-<sub>Automatisch aktualisiert am 09.11.2026</sub>
+<sub>Updated automatically on 09.11.2026</sub>
 <!-- REPOS:END -->
 
-## 🤝 Kontakt
+## Contact
 
 [LinkedIn](https://www.linkedin.com/in/maximilian-dumler-4528a4430/)
