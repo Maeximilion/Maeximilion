@@ -40,12 +40,12 @@ jobs:
               parts = [f"- **[{r['name']}]({r['html_url']})**"]
               if r.get("description"):
                   parts.append(f"– {r['description']}")
-              meta = " · ".join(x for x in [r.get("language"), f"aktualisiert {pushed}"] if x)
+              meta = " · ".join(x for x in [r.get("language"), f"updated {pushed}"] if x)
               lines.append(" ".join(parts) + f" <sub>{meta}</sub>")
           if not lines:
-              lines.append("- Noch keine öffentlichen Repositories.")
+              lines.append("- No public repositories yet.")
           today = datetime.now(timezone.utc).strftime("%d.%m.%Y")
-          lines.append(f"\n<sub>Automatisch aktualisiert am {today}</sub>")
+          lines.append(f"\n<sub>Updated automatically on {today}</sub>")
 
           block = "<!-- REPOS:START -->\n" + "\n".join(lines) + "\n<!-- REPOS:END -->"
           with open("README.md", encoding="utf-8") as f:
