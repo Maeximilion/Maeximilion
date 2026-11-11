@@ -21,10 +21,10 @@ Python, Git and GitHub, Google Apps Script, Google Workspace, Claude Code, promp
 ## Recently updated repositories
 
 <!-- REPOS:START -->
-- **[Maex-Voice-Agent](https://github.com/Maeximilion/Maex-Voice-Agent)** – AI phone agent for restaurants: takes reservations, pickup and delivery orders by phone. The model understands, code and database decide. Pilot stage, not live. <sub>Python · updated 10.11.2026</sub>
+- **[Maex-Voice-Agent](https://github.com/Maeximilion/Maex-Voice-Agent)** – AI phone agent for restaurants: takes reservations, pickup and delivery orders by phone. The model understands, code and database decide. Pilot stage, not live. <sub>Python · updated 11.11.2026</sub>
 - **[MaexSocial](https://github.com/Maeximilion/MaexSocial)** – AI-powered local visibility, social media operations and creative production. Discovery and gated development. <sub>Python · updated 06.11.2026</sub>
 
-<sub>Updated automatically on 10.11.2026</sub>
+<sub>Updated automatically on 11.11.2026</sub>
 <!-- REPOS:END -->
 
 ## Contact
